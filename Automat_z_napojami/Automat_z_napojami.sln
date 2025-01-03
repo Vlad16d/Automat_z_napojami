@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automat_z_napojami", "Automat_z_napojami\Automat_z_napojami.csproj", "{EB47FA88-17B0-4D81-80BC-B82B269B623D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB47FA88-17B0-4D81-80BC-B82B269B623D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB47FA88-17B0-4D81-80BC-B82B269B623D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB47FA88-17B0-4D81-80BC-B82B269B623D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB47FA88-17B0-4D81-80BC-B82B269B623D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8F973A5-5E6B-489F-9AA0-35C9CBDEA680}
+	EndGlobalSection
+EndGlobal

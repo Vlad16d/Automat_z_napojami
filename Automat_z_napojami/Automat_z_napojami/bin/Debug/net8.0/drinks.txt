@@ -1,0 +1,10 @@
+Coca Cola,3,43
+Pepsi Cola,3,49
+fanta,3,33
+Dr. Pepper,3,00
+Lipton,3,75
+Energetyk Monster,3,99
+Sprite,2,89
+7up,4,00
+Mirinda,3,99
+woda Rzeszowianka,2,08

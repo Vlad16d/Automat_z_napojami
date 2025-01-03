@@ -1,0 +1,14 @@
+C:\Users\imaf2\source\repos\Automat_z_napojami\Automat_z_napojami\bin\Debug\net8.0\Automat_z_napojami.exe
+C:\Users\imaf2\source\repos\Automat_z_napojami\Automat_z_napojami\bin\Debug\net8.0\Automat_z_napojami.deps.json
+C:\Users\imaf2\source\repos\Automat_z_napojami\Automat_z_napojami\bin\Debug\net8.0\Automat_z_napojami.runtimeconfig.json
+C:\Users\imaf2\source\repos\Automat_z_napojami\Automat_z_napojami\bin\Debug\net8.0\Automat_z_napojami.dll
+C:\Users\imaf2\source\repos\Automat_z_napojami\Automat_z_napojami\bin\Debug\net8.0\Automat_z_napojami.pdb
+C:\Users\imaf2\source\repos\Automat_z_napojami\Automat_z_napojami\obj\Debug\net8.0\Automat_z_napojami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imaf2\source\repos\Automat_z_napojami\Automat_z_napojami\obj\Debug\net8.0\Automat_z_napojami.AssemblyInfoInputs.cache
+C:\Users\imaf2\source\repos\Automat_z_napojami\Automat_z_napojami\obj\Debug\net8.0\Automat_z_napojami.AssemblyInfo.cs
+C:\Users\imaf2\source\repos\Automat_z_napojami\Automat_z_napojami\obj\Debug\net8.0\Automat_z_napojami.csproj.CoreCompileInputs.cache
+C:\Users\imaf2\source\repos\Automat_z_napojami\Automat_z_napojami\obj\Debug\net8.0\Automat_z_napojami.dll
+C:\Users\imaf2\source\repos\Automat_z_napojami\Automat_z_napojami\obj\Debug\net8.0\refint\Automat_z_napojami.dll
+C:\Users\imaf2\source\repos\Automat_z_napojami\Automat_z_napojami\obj\Debug\net8.0\Automat_z_napojami.pdb
+C:\Users\imaf2\source\repos\Automat_z_napojami\Automat_z_napojami\obj\Debug\net8.0\Automat_z_napojami.genruntimeconfig.cache
+C:\Users\imaf2\source\repos\Automat_z_napojami\Automat_z_napojami\obj\Debug\net8.0\ref\Automat_z_napojami.dll

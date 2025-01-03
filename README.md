@@ -1,1 +1,1 @@
-# Automat_z_napojami
+This is a project for the OOP "Vending machine with drinks", which allows the user to buy a drink and get change. Also has an Admin Menu feature that allows you to show a list of products, add, delete, change products and show a list of recorded transactions
